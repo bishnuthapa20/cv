@@ -1,0 +1,162 @@
+body{
+    background-color: #d6e0f0;
+}
+
+/* Footer social icon */
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: right;
+    text-decoration: none;
+  }
+  .fa:hover {
+    opacity: 0.7;
+  }
+  /* Facebook */
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  /* Twitter */
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  /* Google */
+  .fa-google {
+    background: #dd4b39;
+    color: white;
+
+  }
+/* top navigation bar */
+ .topnav{
+    background-color:#f4f4f4;
+    overflow: hidden;
+    
+  }
+  
+
+  .topnav a {
+    float: left;
+    color: #ff4b5c;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+
+  .topnav a.active {
+    background-color: #4CAF50;
+    color: white;
+  }
+  .searchbar{
+    margin-left: 80%;
+    margin-top: 0.5;
+    width: 200px;
+    height: 35px;
+  }
+  .name{
+    text-align: center;
+    margin-right: 28%;
+    font-size:30px;
+    color: #c62a88;
+  }
+/*footer bar */
+footer{
+  background-color: #ea5455 ;
+  overflow: hidden;
+}
+
+.footericon{
+  margin-top: 0;
+  margin-left: 43%;
+
+}
+.pagelinks{
+  text-align: center;
+}
+
+.sociallinks{
+  margin-left: 40%;
+}
+
+/* Images display properties */
+.frontimg{
+  margin-left: 12%;
+ }
+ .introduction{
+   font-family: Verdana;
+   text-align: center;
+ }
+
+ .aboutimg{
+   margin-left: 15%;
+ }
+
+   
+
+ }
+ .blogimg1{
+   height: 500px;
+   width: 450px;
+
+ }
+ .blogimg2{
+  height: 500px;
+  width: 450px;
+}
+.blogimg{
+  margin-left: 10%;
+}
+
+
+/*character formatting */
+
+pre{
+  font-size: large;
+  font-style: italic;
+}
+
+
+
+
+/*gallery images formatting */
+
+.gallery{
+  display: inline;
+}
+
+.admimg1{
+  height: 300px;
+  width: 250px;
+}
+
+
+.admimg2{
+  height: 300px;
+  width: 250px;
+}
+
+.admimg3{
+  height: 300px;
+  width: 250px;
+}
+
+.admimg4{
+  height: 300px;
+  width: 250px;
+}
+
+.admimg5{
+  height: 300px;
+  width: 250px;
+}
